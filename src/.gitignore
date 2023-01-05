@@ -51,12 +51,6 @@ Thumbs.db
 *.pdm
 BaseDatos*
 
-#xml#
-#####
-*.xml
-/target/
-
-
 #pruebas#
 #########
 
