@@ -1,0 +1,12 @@
+com.jairo.gest
+com.jairo.gest.controllers
+com.jairo.gest.creadores
+com.jairo.gest.editores
+com.jairo.gest.eliminadores
+com.jairo.gest.encriptacion
+com.jairo.gest.genCont
+com.jairo.gest.gui
+com.jairo.gest.hashing
+com.jairo.gest.inicioSesion
+com.jairo.gest.registro
+com.jairo.gest.usuarios
